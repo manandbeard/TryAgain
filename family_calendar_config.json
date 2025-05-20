@@ -1,0 +1,178 @@
+{
+  "familyMembers": [
+    {
+      "id": 14,
+      "name": "THeo",
+      "color": "coral",
+      "calendarUrl": "https://calendar.google.com/calendar/ical/5741122d996f3cb19e80c5837f892b0930eb59f5c377d948aa00ee2ab583a24d%40group.calendar.google.com/private-3f54b2eec7de4c04808acef7e6bcebcf/basic.ics",
+      "active": true
+    }
+  ],
+  "mealCalendar": {
+    "id": 1,
+    "calendarUrl": "https://calendar.google.com/calendar/ical/f2f2b6441b3fad1913bcd7272b69d9844d6c8fc0062dd7c11d29a9248b8be881%40group.calendar.google.com/private-a6cd50669984f790701c339a537ed815/basic.ics",
+    "active": true
+  },
+  "tasks": [],
+  "settings": {
+    "id": 1,
+    "familyName": "Helland Family",
+    "timeFormat": "12",
+    "screensaverTimeout": 1,
+    "photoDirectory": "./photos",
+    "weatherApiKey": "7fe78649a07891152a81c4ebdc659dd8",
+    "weatherLocation": "North Bend, US",
+    "tempUnit": "F",
+    "familyMembers": [
+      {
+        "id": 1,
+        "name": "Betty and Fran",
+        "color": "coral",
+        "calendarUrl": "https://calendar.google.com/calendar/ical/0832542ab517887f2961026b0c5515428263b1b940787afa6cc428d8653813bc%40group.calendar.google.com/private-3ea6c67a5a00abf8c9d5a4083fc87708/basic.ics",
+        "active": true
+      },
+      {
+        "id": 2,
+        "name": "Daddy",
+        "color": "sky",
+        "calendarUrl": "https://calendar.google.com/calendar/ical/thehellandfamily%40gmail.com/private-232261836b4bebe852bae1c2b8922f7d/basic.ics",
+        "active": true
+      },
+      {
+        "id": 3,
+        "name": "Theo",
+        "color": "sage",
+        "calendarUrl": "https://calendar.google.com/calendar/ical/5741122d996f3cb19e80c5837f892b0930eb59f5c377d948aa00ee2ab583a24d%40group.calendar.google.com/private-3f54b2eec7de4c04808acef7e6bcebcf/basic.ics",
+        "active": true
+      }
+    ],
+    "mealCalendarUrl": "https://calendar.google.com/calendar/ical/f2f2b6441b3fad1913bcd7272b69d9844d6c8fc0062dd7c11d29a9248b8be881%40group.calendar.google.com/private-a6cd50669984f790701c339a537ed815/basic.ics"
+  },
+  "photos": [
+    {
+      "id": 1,
+      "filename": "37342585-a9aa-4bb9-bc6f-78d43527a3c2.JPG",
+      "path": "photos/37342585-a9aa-4bb9-bc6f-78d43527a3c2.JPG",
+      "uploadedAt": "2025-05-20T04:19:21.433Z"
+    },
+    {
+      "id": 2,
+      "filename": "784adbb9-e21f-430f-b07a-5ed59ad38002.jpg",
+      "path": "photos/784adbb9-e21f-430f-b07a-5ed59ad38002.jpg",
+      "uploadedAt": "2025-05-20T04:19:30.286Z"
+    },
+    {
+      "id": 3,
+      "filename": "8977b21b-7245-4346-abad-7ef8828eea5a.jpg",
+      "path": "photos/8977b21b-7245-4346-abad-7ef8828eea5a.jpg",
+      "uploadedAt": "2025-05-20T04:19:39.811Z"
+    },
+    {
+      "id": 4,
+      "filename": "9a4a4b95-926d-45a0-a256-626734405b6c.JPG",
+      "path": "photos/9a4a4b95-926d-45a0-a256-626734405b6c.JPG",
+      "uploadedAt": "2025-05-20T04:40:50.521Z"
+    },
+    {
+      "id": 5,
+      "filename": "b6711117-f2ea-4a59-b303-6e6bccaf6bc6.JPG",
+      "path": "photos/b6711117-f2ea-4a59-b303-6e6bccaf6bc6.JPG",
+      "uploadedAt": "2025-05-20T04:40:50.605Z"
+    },
+    {
+      "id": 6,
+      "filename": "d93372f9-1475-48c0-aa94-640888cece34.JPG",
+      "path": "photos/d93372f9-1475-48c0-aa94-640888cece34.JPG",
+      "uploadedAt": "2025-05-20T04:40:51.765Z"
+    },
+    {
+      "id": 7,
+      "filename": "7d43eff2-381a-4a18-8d49-828273c39747.JPG",
+      "path": "photos/7d43eff2-381a-4a18-8d49-828273c39747.JPG",
+      "uploadedAt": "2025-05-20T04:40:52.950Z"
+    },
+    {
+      "id": 8,
+      "filename": "daeac2dc-70ac-4a45-bf14-9ebc4c7a1f29.JPG",
+      "path": "photos/daeac2dc-70ac-4a45-bf14-9ebc4c7a1f29.JPG",
+      "uploadedAt": "2025-05-20T04:40:53.369Z"
+    },
+    {
+      "id": 9,
+      "filename": "0412da9c-afbc-4c9d-9892-e0e62921b064.JPG",
+      "path": "photos/0412da9c-afbc-4c9d-9892-e0e62921b064.JPG",
+      "uploadedAt": "2025-05-20T04:40:53.467Z"
+    },
+    {
+      "id": 10,
+      "filename": "8977e9f4-c6b0-41c5-a224-a9db047b3b6f.JPG",
+      "path": "photos/8977e9f4-c6b0-41c5-a224-a9db047b3b6f.JPG",
+      "uploadedAt": "2025-05-20T04:40:53.814Z"
+    },
+    {
+      "id": 11,
+      "filename": "0c371d39-43a8-4b34-9f96-cfc1962e9228.JPG",
+      "path": "photos/0c371d39-43a8-4b34-9f96-cfc1962e9228.JPG",
+      "uploadedAt": "2025-05-20T04:40:56.849Z"
+    },
+    {
+      "id": 12,
+      "filename": "0fab000c-1e1d-4bce-9fb7-eebee3950118.JPG",
+      "path": "photos/0fab000c-1e1d-4bce-9fb7-eebee3950118.JPG",
+      "uploadedAt": "2025-05-20T14:37:42.224Z"
+    },
+    {
+      "id": 13,
+      "filename": "d46b42f2-b740-4eb6-ab51-62b21eae49a5.JPG",
+      "path": "photos/d46b42f2-b740-4eb6-ab51-62b21eae49a5.JPG",
+      "uploadedAt": "2025-05-20T14:37:43.938Z"
+    },
+    {
+      "id": 14,
+      "filename": "1fbd1a83-463c-4fe8-a8b9-db76cf11bde9.JPG",
+      "path": "photos/1fbd1a83-463c-4fe8-a8b9-db76cf11bde9.JPG",
+      "uploadedAt": "2025-05-20T14:37:44.057Z"
+    },
+    {
+      "id": 15,
+      "filename": "cc0263fc-ca12-4450-9f04-ec693c91f555.JPG",
+      "path": "photos/cc0263fc-ca12-4450-9f04-ec693c91f555.JPG",
+      "uploadedAt": "2025-05-20T14:37:57.188Z"
+    },
+    {
+      "id": 16,
+      "filename": "7bb9f32d-e163-45a9-82fd-276156506df7.JPG",
+      "path": "photos/7bb9f32d-e163-45a9-82fd-276156506df7.JPG",
+      "uploadedAt": "2025-05-20T14:38:01.857Z"
+    },
+    {
+      "id": 17,
+      "filename": "0c6c3bfd-e0f8-49db-ba60-453114a65a23.JPG",
+      "path": "photos/0c6c3bfd-e0f8-49db-ba60-453114a65a23.JPG",
+      "uploadedAt": "2025-05-20T14:38:01.941Z"
+    },
+    {
+      "id": 18,
+      "filename": "3193a75c-c20c-4552-be0e-a747f52b046c.JPG",
+      "path": "photos/3193a75c-c20c-4552-be0e-a747f52b046c.JPG",
+      "uploadedAt": "2025-05-20T14:38:04.123Z"
+    },
+    {
+      "id": 19,
+      "filename": "fb7269a1-50d1-4a6e-a878-745257aa4abb.JPG",
+      "path": "photos/fb7269a1-50d1-4a6e-a878-745257aa4abb.JPG",
+      "uploadedAt": "2025-05-20T14:38:18.337Z"
+    },
+    {
+      "id": 20,
+      "filename": "3cc7a384-1aeb-43cf-a934-4c3185a9f609.JPG",
+      "path": "photos/3cc7a384-1aeb-43cf-a934-4c3185a9f609.JPG",
+      "uploadedAt": "2025-05-20T14:38:19.557Z"
+    }
+  ],
+  "counters": {
+    "memberId": 15,
+    "taskId": 1,
+    "photoId": 21
+  }
+}
